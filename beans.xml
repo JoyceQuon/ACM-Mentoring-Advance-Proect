@@ -7,4 +7,5 @@
 	<bean id="person" 
 		class="com.spring.test.spring_hello.Person">
 	</bean>
+	
 </beans>
